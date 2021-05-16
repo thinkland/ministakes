@@ -12,7 +12,7 @@ minimal_mistakes_skin: default
 search: true
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.22.0 # @4.23.0
 markdown: kramdown
 # Outputting
 permalink: /:categories/:title/
